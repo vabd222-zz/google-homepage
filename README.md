@@ -1,0 +1,1 @@
+This is my first mini-project on Web Development. In this project I will recreate my own version of google-homepage using HTML fundamentals.
